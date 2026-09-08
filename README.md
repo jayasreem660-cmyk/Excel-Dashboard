@@ -14,7 +14,7 @@ An interactive Excel dashboard designed to analyze sales performance and provide
 - Top Products
 
 ### Dashboard Preview:
-Upload your dashboard screenshot as `dashboard.png` and it will appear here.
+![Dashboard](Screenshot%202026-09-08%20183713.png)
 
 ### How to Use:
 1. Download Excel Dashboard.xlsx
